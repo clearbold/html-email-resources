@@ -21,6 +21,10 @@ I haven't actually used any of these. (^MR)
 
 ### Delivery Platforms - Third-party
 
+* Campaign Monitor
+* ConstantContact
+* MailChimp
+
 ### Design Galleries
 
 ### Guides
