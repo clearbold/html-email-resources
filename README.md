@@ -23,6 +23,8 @@ I haven't actually used any of these. (^MR)
 
 ### Design Galleries
 
+### Guides
+
 ### Pre-flight - Inline CSS generators
   
 ### Responsive Email Design
