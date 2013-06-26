@@ -32,7 +32,7 @@ I haven't actually used any of these. (^MR)
 ### Spam Busters
 
 * Linked links:
-	* This continues to trip me up. Linking a URL, such as [clearbold.com](clearbold.com) seems to immediate trigger spam filters. (^MR)
+	* This continues to trip me up. Linking a URL, such as [clearbold.com](clearbold.com) seems to immediately trigger spam filters. (^MR)
 
 ### Statistics & Data
 
