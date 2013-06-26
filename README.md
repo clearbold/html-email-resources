@@ -13,7 +13,12 @@ HTML Email Resources, compiled by http://clearbold.com/blog
 ### Delivery Platforms - Self-hosted
 
 ### Delivery Platforms - Third-party
+
+### Pre-flight - Inline CSS generators
   
 ### Responsive Email Design
 
 ### Testing
+
+* [Litmus](https://litmus.com/)
+  * Litmus's virtual testing tools power those of many other platforms. For a while I've paid one-off fees to Campaign Monitor for access to email client screenshots. You get a lot more functionality working with Litmus directly, including the ability to live edit your code and refresh tests in supported email clients.
