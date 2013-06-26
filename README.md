@@ -36,6 +36,8 @@ I haven't actually used any of these. (^MR)
 
 ### Statistics & Data
 
+* [The best time of day to send emails](http://www.adverblog.com/2012/10/12/the-best-time-of-day-to-send-emails-infographic/) (infographic)
+
 ### Testing
 
 * [Litmus](https://litmus.com/)
