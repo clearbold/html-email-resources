@@ -14,6 +14,8 @@ HTML Email Resources, compiled by http://clearbold.com/blog
 
 ### Delivery Platforms - Third-party
 
+### Design Galleries
+
 ### Pre-flight - Inline CSS generators
   
 ### Responsive Email Design
