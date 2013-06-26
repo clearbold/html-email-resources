@@ -25,6 +25,11 @@ I haven't actually used any of these. (^MR)
 
 ### Guides
 
+### MX
+
+* [MX Toolbox](http://www.mxtoolbox.com/SuperTool.aspx)
+	* If you're setting up email records to authorize delivery networks, MX Toolbox will validate those records & their syntax.
+
 ### Pre-flight - Inline CSS generators
   
 ### Responsive Email Design
