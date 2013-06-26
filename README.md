@@ -1,4 +1,4 @@
-html-email-resources
+HTML Email Resources
 ====================
 
 HTML Email Resources, compiled by http://clearbold.com/blog
