@@ -19,6 +19,8 @@ I haven't actually used any of these. (^MR)
 
 ### Delivery Platforms - Self-hosted
 
+* [Sendy](http://sendy.co/)
+
 ### Delivery Platforms - Third-party
 
 * Campaign Monitor
