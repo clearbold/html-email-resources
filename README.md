@@ -1,7 +1,7 @@
 HTML Email Resources
 ====================
 
-HTML Email Resources, compiled by http://clearbold.com/blog
+HTML Email Resources, compiled by http://clearbold.com
 
 
 ### Boilerplate
