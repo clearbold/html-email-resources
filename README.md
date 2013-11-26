@@ -36,12 +36,14 @@ I haven't actually used any of these. (^MR)
 ### Guides
 
 * [Campaign Monitor Guides](http://www.campaignmonitor.com/guides/)
+* [Campaign Monitor's "Will It Work?"](http://www.campaignmonitor.com/resources/will-it-work/)
 * [MailChimp Guides](http://mailchimp.com/resources/)
 
 ### MX
 
 * [MX Toolbox](http://www.mxtoolbox.com/SuperTool.aspx)
 	* If you're setting up email records to authorize delivery networks, MX Toolbox will validate those records & their syntax.
+* [How To Explain DKIM To Your Grandmother](http://www.messagesystems.com/blog/dkim-for-grandma/)
 
 ### Pre-flight - Inline CSS generators
 
@@ -62,6 +64,12 @@ I haven't actually used any of these. (^MR)
 ### Statistics & Data
 
 * [The best time of day to send emails](http://www.adverblog.com/2012/10/12/the-best-time-of-day-to-send-emails-infographic/) (infographic)
+* [Deployment Times](http://www.emailstatcenter.com/DeploymentTimes.html)
+
+### Templates
+
+* [Campaign Monitor](http://www.campaignmonitor.com/templates/)
+* [Zurb Ink Templates](http://zurb.com/ink/templates.php)
 
 ### Testing
 
@@ -70,4 +78,6 @@ I haven't actually used any of these. (^MR)
 
 ### Tools
 
+* [Campaign Monitor Subscribers Pepper for Mint](https://github.com/circa1977/sk.campaignmonitor_subscribers.pepper)
+* [Campaign Monitor for SalesForce](http://blog.marketincontext.com/post/63514261547/campaign-monitor-for-salesforce-powerful-affordable)
 * [Litmus Scope](https://litmus.com/scope/)
