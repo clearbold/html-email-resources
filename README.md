@@ -13,7 +13,6 @@ I haven't actually used any of these. (^MR)
 * [Ink: A Responsive Email Framework from Zurb](http://zurb.com/ink/)
 	* If you've relied on Zurb Foundation for your web projects, they've now tackled email.
 
-
 ### CSS (or lack thereof)
 
 * [Bulletproof Email Background Images](http://emailbg.net/)
@@ -31,6 +30,8 @@ I haven't actually used any of these. (^MR)
 
 ### Design Galleries
 
+* [Campaign Monitor: Email Inspiration](http://www.campaignmonitor.com/gallery/)
+
 ### Guides
 
 ### MX
@@ -39,6 +40,8 @@ I haven't actually used any of these. (^MR)
 	* If you're setting up email records to authorize delivery networks, MX Toolbox will validate those records & their syntax.
 
 ### Pre-flight - Inline CSS generators
+
+* [Campaign Monitor: Inliner](http://inliner.cm/)
   
 ### Responsive Email Design
 
@@ -58,3 +61,7 @@ I haven't actually used any of these. (^MR)
 
 * [Litmus](https://litmus.com/)
 	* Litmus's virtual testing tools power those of many other platforms. For a while I've paid one-off fees to Campaign Monitor for access to email client screenshots. You get a lot more functionality working with Litmus directly, including the ability to live edit your code and refresh tests in supported email clients. (^MR)
+
+### Tools
+
+* [Litmus Scope](https://litmus.com/scope/)
