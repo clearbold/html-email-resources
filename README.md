@@ -68,7 +68,7 @@ I haven't actually used any of these. (^MR)
 * [The best time of day to send emails](http://www.adverblog.com/2012/10/12/the-best-time-of-day-to-send-emails-infographic/) (infographic)
 * [Deployment Times](http://www.emailstatcenter.com/DeploymentTimes.html)
 * [Email Still Dominates Sharing](http://blog.digg.com/post/49264812779/were-still-learning)
-* [Mobile vs Desktop](https://www.pinterest.com/pin/34973334579201964/)
+* [Mobile vs Desktop](https://www.pinterest.com/pin/34973334579201964/) (infographic)
 
 ### Templates
 
