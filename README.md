@@ -53,7 +53,7 @@ I haven't actually used any of these. (^MR)
   
 ### Responsive Email Design
 
-* [Multi-column Layouts (Campaign Monitor)](http://www.campaignmonitor.com/guides/mobile/responsive/)
+* [Multi-Column Responsive Layouts (Campaign Monitor)](http://www.campaignmonitor.com/guides/mobile/responsive/)
 	* I do things a bit differently here, converting my media query widths to 100% among other techniques. I'll try to get some examples posted. ^MR
 * [Responsive HTML Emails: a Different Strategy](http://blog.fogcreek.com/responsive-html-emails-a-different-strategy/)
 	* Fog Creek minimizes dependencies on media queries for their responsive email layout.
