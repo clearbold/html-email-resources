@@ -25,8 +25,9 @@ I haven't actually used any of these. (^MR)
 ### Delivery Platforms - Third-party
 
 * [Campaign Monitor](http://campaignmonitor.com)
-* ConstantContact
-* MailChimp
+* [ConstantContact](http://www.constantcontact.com/index.jsp)
+	* We don't pay too much attention to ConstantContact. Last I looked a few years back, they did not support reusable templates or many of the great features offered by Campaign Monitor and MailChimp. ^MR
+* [MailChimp](http://www.mailchimp.com)
 
 ### Design Galleries
 
@@ -45,6 +46,8 @@ I haven't actually used any of these. (^MR)
 ### Pre-flight - Inline CSS generators
 
 * [Campaign Monitor: Inliner](http://inliner.cm/)
+	* We've relied on Campaign Monitor's CSS inlining for years, even in emails we hand off to blast via other services. ^MR
+* [Premailer](http://premailer.dialect.ca/)
   
 ### Responsive Email Design
 
