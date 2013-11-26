@@ -34,6 +34,9 @@ I haven't actually used any of these. (^MR)
 
 ### Guides
 
+* [Campaign Monitor Guides](http://www.campaignmonitor.com/guides/)
+* [MailChimp Guides](http://mailchimp.com/resources/)
+
 ### MX
 
 * [MX Toolbox](http://www.mxtoolbox.com/SuperTool.aspx)
