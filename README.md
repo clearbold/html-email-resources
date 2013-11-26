@@ -10,6 +10,8 @@ I haven't actually used any of these. (^MR)
 
 * [Emailology](http://www.emailology.org/#1)
 * [HTML Email Boilerplate](http://htmlemailboilerplate.com/)
+* [Ink: A Responsive Email Framework from Zurb](http://zurb.com/ink/)
+	* If you've relied on Zurb Foundation for your web projects, they've now tackled email.
 
 
 ### CSS (or lack thereof)
@@ -23,7 +25,7 @@ I haven't actually used any of these. (^MR)
 
 ### Delivery Platforms - Third-party
 
-* Campaign Monitor
+* [Campaign Monitor](http://campaignmonitor.com)
 * ConstantContact
 * MailChimp
 
