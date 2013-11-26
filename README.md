@@ -40,6 +40,9 @@ I haven't actually used any of these. (^MR)
   
 ### Responsive Email Design
 
+* [Responsive HTML Emails: a Different Strategy](http://blog.fogcreek.com/responsive-html-emails-a-different-strategy/)
+	* Fog Creek minimizes dependencies on media queries for their responsive email layout.
+
 ### Spam Busters
 
 * Linked links:
