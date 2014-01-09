@@ -4,6 +4,11 @@ HTML Email Resources
 HTML Email Resources, compiled by http://clearbold.com
 
 
+### Blogs
+
+* [Email on Acid](http://www.emailonacid.com/blog)
+* [Email Wizardry](http://emailwizardry.nightjar.com.au/)
+
 ### Boilerplate
 
 I haven't actually used any of these. (^MR)
