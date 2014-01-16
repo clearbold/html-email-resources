@@ -62,6 +62,8 @@ I haven't actually used any of these. (^MR)
 	* I do things a bit differently here, converting my media query widths to 100% among other techniques. I'll try to get some examples posted. ^MR
 * [Responsive HTML Emails: a Different Strategy](http://blog.fogcreek.com/responsive-html-emails-a-different-strategy/)
 	* Fog Creek minimizes dependencies on media queries for their responsive email layout.
+* [Responsive Web Design Resources](http://bradfrost.github.io/this-is-responsive/resources.html#email-design)
+	* From [Brad Frost](https://github.com/bradfrost)'s "This is Responsive".
 
 ### Spam Busters
 
