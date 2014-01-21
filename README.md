@@ -38,6 +38,10 @@ I haven't actually used any of these. (^MR)
 
 * [Campaign Monitor: Email Inspiration](http://www.campaignmonitor.com/gallery/)
 
+### Fonts & Typography
+
+* [Creative Typography in Email: Q&A with Paul Airy (Litmus Blog)](https://litmus.com/blog/creative-typography-in-email-qa-with-paul-airy)
+
 ### Guides
 
 * [Campaign Monitor Guides](http://www.campaignmonitor.com/guides/)
