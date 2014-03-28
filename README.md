@@ -6,8 +6,10 @@ HTML Email Resources, compiled by http://clearbold.com
 
 ### Blogs
 
+* [Blog - Campaign Monitor](http://www.campaignmonitor.com/blog/)
 * [Email on Acid](http://www.emailonacid.com/blog)
 * [Email Wizardry](http://emailwizardry.nightjar.com.au/)
+* [Litmus | Blog](https://litmus.com/blog/)
 
 ### Boilerplate
 
