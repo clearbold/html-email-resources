@@ -74,6 +74,10 @@ I haven't actually used any of these. (^MR)
 * Linked links:
 	* This continues to trip me up. Linking a URL, such as [clearbold.com](clearbold.com), seems to immediately trigger spam filters. (^MR)
 
+### Starter Templates
+
+* Clearboldne.ws templates are in this repository. They'll need to be run through an inliner before sending. (See "Pre-flight - Inline CSS generators")
+
 ### Statistics & Data
 
 * [The best time of day to send emails](http://www.adverblog.com/2012/10/12/the-best-time-of-day-to-send-emails-infographic/) (infographic)
