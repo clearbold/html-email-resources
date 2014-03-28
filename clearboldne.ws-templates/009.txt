@@ -1,0 +1,104 @@
+The Clearbold Newsletter 009 - May 13, 2013
+Issue No. 009: What's at stake in web design, web project quality & more.
+
+View on the Web:
+[webversion]
+
+Tweet:
+[tweet]
+
+Forward to a Friend:
+[forwardtoafriend]
+
+Tell your friends about the Clearbold Newsletter. Visit http://clearboldne.ws.
+
+
+WHAT'S AT STAKE IN WEB DESIGN
+
+When I think about the quality of our craft and what's at stake in the websites we launch, I often recall Whitney Hess's post on Designing Time:
+
+" As creators of products and services, we essentially design other people's time. Our design decisions effect how long it takes them to find a page, read a passage, complete a form, or change a setting. Real-life time spent by real-life people that we fully control. "
+http://whitneyhess.com/blog/2012/08/28/designing-time/
+
+Different projects offer different motivations and goals. Sometimes a captivating, rich experience is the objective of the project. Oftentimes, our goal is more mission-oriented. When we set out to design an exceptional experience, are we focusing too much on making it exceptionally unique or rich, and not enough on making it exceptionally easy, efficient and productive? How many hot button topics at present are, in essence, about designing time?
+
+* Minimizing download times & maximizing performance on mobile devices
+
+* Minimizing clicks or taps to accomplish a goal
+
+* Minimizing superfluous content and maximizing messaging
+
+The best user experience should not dazzle the user, but should instead empower the user; To accomplish goals, complete tasks, learn something new, and feel satisfied. In this way, UX design is less about creating an experience, and more about optimizing the experience for the user.
+
+
+QUALITY TESTS FOR WEB PROJECTS
+
+I've been reading about test-driven development in PHP recently, and part of that discussion revolves around internal and external software quality. External quality is the stuff our clients see: It's the design of the website, the navigation, the features we build. Internal quality is the stuff that's not so obvious and is often compromised due to budget or time constraints: Performance, readable (and maintainable) code, long-term viability and ease of managing content or the application.
+http://www.amazon.com/gp/product/B004XCRBMG/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004XCRBMG&linkCode=as2&tag=clrbld-20
+
+What's most interesting to me is that what has traditionally been invisible -- internal quality -- becomes more and more visible as our sites are expected to do more and work in more and more contexts with the rise of mobile.
+
+If we put internal and external quality at opposites ends of a spectrum, every project we launch should, ideally, land right in the middle, with all of our goals in balance. Too often the scale tips toward external quality, of course, but by applying qualitative tests not only to code, and instead to all aspects of our website process & projects, by defining those tests before we begin our work and evaluating progress against them at each step, shouldn't we be able to better deliver projects that are more balanced and thus more performant and sustainable? What if we tried...
+
+* Setting a boundary on page file size and ensuring our scripts, CSS files and image assets are within that threshold before starting designs
+
+* Identifying goals for reusable templates, styles and code before starting information architecture or prototyping
+
+* Setting goals for granularity and reusability in structured content, along with context targets for content, before content is written or page layouts are defined
+
+Test-driven development starts with a desired outcome at a granular, functional level, and then code is written to achieve that outcome. This is done by first defining a test that fails until the code is working correctly.
+
+If we start every web design project with the same approach, defining a series of tests that represent a successful project, we can measure whether we're on track for success at each step as the project unfolds. We're much more likely to succeed in a smaller timeframe or project scope than a bigger project over a longer timeline. Let's use that to our advantage by evaluating success at that level.
+
+
+AROUND THE WEB
+
+Adobe Love
+
+Mr. Zeldman goes to Adobe expecting to find an irrelevant company past its prime. Instead he finds leadership that speaks native Web, and a pragmatic point-of-view about Adobe's products and their role in a responsive web.
+http://www.zeldman.com/2013/05/08/adobe-love/
+
+Karen McGrane on Compassion
+
+" Our clients, our co-workers, our bosses and stakeholders: they are sick of the internet. The pace of change doesn't stop. They don't know who to trust to help them make the right decision. There are so many ways to get it wrong, and so few obvious right answers. "
+
+Veteran content strategist & information architect Karen McGrane shares her own apprehension at the advent of mobile, and reminds us that the challenges and rapid pace of change we face every day is doubly daunting for our clients & colleagues.
+http://the-pastry-box-project.net/karen-mcgrane/2013-may-9/
+
+Material Honesty on the Web
+
+" There is a place for decoration, and a place for material honesty. These two exist on a continuum, with decoration at one end and material honesty at the other. There's no precise point at which a design becomes honest or dishonest. The web designer has the messy job of sorting it out. "
+
+A brilliant essay on web design cites the work of Charles & Ray Eames in evaluating tools and processes that lead to quality web work.
+http://alistapart.com/article/material-honesty-on-the-web
+
+Truth in Interface Design
+
+Matt Gemmell looks at related issues by way of Jony Ive quotes and expectations for iOS 7.
+http://mattgemmell.com/2013/05/12/tail-wagging/
+
+The Developer/Designer Spectrum
+
+Diogenes Brito disputes the notion that designers and developers exist at opposite ends of a spectrum. He points out that "good designers and developers actually have a lot in common." Differences between the two disciplines boil down to practice, mastery and which end of the process they specialize at.
+https://diogenes.squarespace.com/blog/on-being-a-designer-and-a-developer-not-quite-unicorn-rare
+
+Creating a Quality Assurance Service
+
+In nGenWorks' May Jellyfish Newsletter, Carl Smith talks about how their new QCat Quality Assurance service is doing.
+http://us1.campaign-archive1.com/?u=db108a550c57ce7fe4bf67d8a&id=dff8071ef4
+
+
+STATS & STUDIES
+
+Interactive Browser Share Usage
+
+Bookmark this this chart of popular browser stats. It lets you filter out older versions of each browser to focus on usage rates that match your own support threshold.
+http://browser.burtdev.net/
+
+The Clearbold Newsletter is an occasional digest email sent by Clearbold, LLC, Pelham, MA.
+
+http://clearboldne.ws
+newsletter@clearbold.com
+
+You may unsubscribe at any time.
+[unsubscribe]

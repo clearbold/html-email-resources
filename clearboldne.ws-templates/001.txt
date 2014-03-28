@@ -1,0 +1,83 @@
+The Clearbold Newsletter
+August 6, 2012 - No. 001
+
+Hand-coded & delivered on an occasional basis.
+
+Trouble reading this?
+[webversion]
+
+===> Content Strategy & IA
+
+If you can spare time to watch one video this week, make it Karen McGrane's talk, The way forward: What's next for Content Strategy.
+http://vimeo.com/29050868
+We've made great progress in making our web designs more flexible. Our next challenge is helping clients & content producers make their content more flexible.
+
+===> Mobile
+
+LukeW: The Growing Mobile Only Audience
+http://www.lukew.com/ff/entry.asp?1597
+
+--
+
+LukeW: Multiple Device Users
+http://www.lukew.com/ff/entry.asp?1596
+They're picking up on one screen right where they left off on another.
+
+--
+
+Opera's State of the Mobile Web Report for June 2012
+http://www.watblog.com/2012/07/31/opera-releases-state-of-the-mobile-web-report-for-june-2012-says-africa-is-growing-like-crazy/
+200 million people used Opera Mobile & Opera Mini in June. Opera Mini is a browser that preprocesses pages, altering them to optimize bandwidth.
+
+===> Web Design & Development
+
+Making of: People Magazine's Responsive Mobile Website
+http://globalmoxie.com/blog/making-of-people-mobile.shtml
+Breaking down all the considerations that go into a Mobile/Responsive redesign, with a large, high-traffic project.
+
+--
+
+What email designers can learn from the responsive web
+http://www.campaignmonitor.com/blog/post/3766/what-email-designers-can-learn-from-the-responsive-web
+And vice versa.
+
+===> SEO & Social Media
+
+The Death of SEO: The Rise of Social, PR, And Real Content - Forbes
+http://www.forbes.com/sites/kenkrogue/2012/07/20/the-death-of-seo-the-rise-of-social-pr-and-real-content
+Traditional SEO tactics are over. The way forward to get sites indexed and found. (Hint: Relevant, real content wins.)
+
+--
+
+Sweep the Sleaze
+http://informationarchitects.net/blog/sweep-the-sleaze/
+Are those "share" & "like" buttons doing you any good...or harming your online marketing efforts?
+
+===> Project Management & IA
+
+Gather Content is a web-based content planning & collaboration tool.
+https://gathercontent.com/
+
+--
+
+Jumpchart takes it even further, with tools that support sitemap generation, mockups & more.
+https://www.jumpchart.com/
+
+===> Ad
+
+I've begun switching my servers over to A Small Orange and am thrilled with their offerings & customer support. When you need a quick server for a small launch, check out their Business Hosting product, which includes SSL, an IP address and is PCI Compliant for a very reasonable rate.
+http://asmallorange.com/hosting/business/?a_aid=clearbold
+
+Share with your friends & colleagues:
+[forwardtoafriend]
+
+'Til next time,
+
+Mark
+newsletter@clearbold.com
+
+The Clearbold Newsletter is an occasional digest email sent by Clearbold, LLC, Pelham, MA.
+http://clearboldne.ws - newsletter@clearbold.com
+
+You may unsubscribe at any time:
+[unsubscribe]

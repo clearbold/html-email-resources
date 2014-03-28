@@ -1,0 +1,184 @@
+The Clearbold Newsletter 011 - June 4, 2013
+Issue No. 011: Web Design and Dev, Typography, Content Management & more.
+
+View on the Web:
+[webversion]
+
+Tweet:
+[tweet]
+
+Forward to a Friend:
+[forwardtoafriend]
+
+Tell your friends about the Clearbold Newsletter. Visit http://clearboldne.ws.
+
+
+Issue 010 Correction
+
+In Issue 010 I incorrectly stated that Goldfinch was a free iOS app. It's available in the App Store for $3.99. I apologize for any confusion that might have caused.
+https://goldfinchapp.com/
+https://itunes.apple.com/us/app/goldfinch/id561541928?mt=8
+
+
+KEEPING UP
+
+How to Keep Up To Date on Front-End Technologies
+
+Where our little email newsletter aggregator links to the super-aggregator of all things front-end dev: How to keep up to date on Front-End Technologies lists who to follow on Twitter, what blogs to read, what newsletters to subscribe to, what podcasts to listen to, and what conferences to attend.
+http://uptodate.frontendrescue.org/
+
+Upping Your Type Game
+
+Jessica Hische graciously shares her An Event Apart talk as a comprehensive article on the ins & outs of typography, written for web designers. Whether or not you're choosing fonts for web designs, you'll find her insight & experience engrossing.
+http://jessicahische.is/talkingtype
+
+Learn CSS Layout
+
+The most challenging aspect of learning CSS isn't how to set dimensions, margins, colors and fonts; It's things that behave oddly, like the box model, floats, positioning and has-layout. This online textbook will get you up to speed.
+http://learnlayout.com/toc.html
+
+Design for Hackers
+
+I came across the Design for Hackers book via the Summer of Design 12-week email newsletter. Unfortunately registration for the free design course will be closed when this newsletter hits your inbox, but you can still get the book.
+http://designforhackers.com/book/
+http://summerofdesign.com/
+
+
+DOING BETTER
+
+The Ultimate Guide to Conversion Centered Design
+
+This example-rich PDF book was worth giving up my email address for. It offers design techniques for landing pages that work, and goes beyond the how to explain why they work.
+http://get.unbounce.com/conversion-centered-design-guide/
+
+A Responsible Programmer
+
+A laundry list of everything a programmer should keep in mind when crafting code.
+http://anders.janmyr.com/2013/04/a-responsible-programmer.html
+
+5 HTML5 Features You Need to Know
+
+"HTML5" has become synonymous with lots of cool new CSS & JavaScript techniques. This post focuses on useful techniques for performance and code optimization that you can take advantage of.
+http://daker.me/2013/05/5-html5-features-you-need-to-know.html
+
+RocketINK
+
+What is RocketINK? I'd describe it as a blog for Mac, iOS and web application power-users, full of tips and thoughtful evaluations of the technology we use every day.
+http://rocketink.net/
+
+Title Junk
+
+This 2010 Daring Fireball post on crafting page titles for web pages still holds true and is worth a read. Details matter.
+http://daringfireball.net/2010/12/title_junk
+
+Designing for Digits
+
+" The debate about app design largely centers around screen size. What if designers worried about digit size instead? "
+
+In Why Your App Design Doesn't Have To Be All Thumbs, Nick Statt analyzes "comfortable to use" usability in the context of touchscreens.
+http://readwrite.com/2013/05/22/polar-input-types-multiplatform-app-design
+
+
+CONTENT & CONTENT MANAGEMENT
+
+Audit Otter
+
+Audit Otter is a new service enabling you to plug "real content strategists" into your website process for content inventories & audits.
+http://auditotter.webmeadow.com/
+
+Karen McGrane's Drupalcon Keynote
+
+" But now the explosion of people accessing the web through mobile devices has forced us to come to terms with the ways that the web is different. Our shared hallucination that we have control over layout and presentation, that most users on the desktop had essentially the same screen size, the same input devices--that's gone. "
+
+Be sure to read this article-form transcript of Karen McGrane's keynote on content strategy, content management, and mobile addressed to the Drupal community.
+http://karenmcgrane.com/2013/05/23/drupalcon-keynote-video-and-talk-notes/
+
+New Media Features in Prose
+
+Development Seed has been touting their CMS-free publishing system for sites such as the new healthcare.gov. In this blog post, Tristen Bowen highlights the "smart, simple UI" of Prose, a web interface for updating content on their Jekyll-powered sites. User-friendly workflow and tools will continue to improve with increased focus in content management platforms.
+http://developmentseed.org/blog/new-healthcare-gov-is-open-and-cms-free/
+http://developmentseed.org/blog/2013/05/28/media-support-in-prose/
+
+"Why I'm So Excited About Craft"
+
+" Craft has a long way to go before it will be able to compete with the big boys, but once the plugin marketplace is up and running and reaches critical mass it will most definitely be a major contender in the CMS market. "
+
+ExpressionEngine add-on developer & professional Ben Croker shares his enthusiasm for the new Craft CMS platform from Pixel & Tonic. I recently completed a project using Craft and am looking forward to its ongoing growth as well.
+http://www.putyourlightson.net/news/why-im-so-excited-about-craft
+http://buildwithcraft.com/
+
+Content Marketing: Products v. Services
+
+This simple chart breaks down the primary goals of your content when marketing products or services.
+http://www.1000contentideas.com/wp-content/uploads/2013/05/content-marketing-products-vs-services1.png
+
+
+DESIGN & DEV TOOLS
+
+Atomic Design
+
+Taking on pattern libraries and front-end frameworks, Brad Frost drops a bomb on the current landscape with his Pattern Lab and Atomic Design: "a methodology for building an effective design system."
+http://patternlab.bradfrostweb.com/
+http://www.slideshare.net/bradfrostweb/atomic-design
+
+Pure
+
+In its ongoing quest for relevancy, Yahoo! unleashes yet another front-end framework. I like Pure's focus on small modules that can be easily adopted without the entirety of a larger framework and with less imposing design elements.
+http://purecss.io/
+
+The Sketchnote Typeface
+
+Mike Rohde is a professional sketchnoter and illustrator of 37signals' Rework, as well as their upcoming book, Remote. In this post, Mike writes about the typeface that was created for his own Sketchnote Handbook based on his handwriting, which is now available on Typekit and for purchase.
+http://rohdesign.com/sketchnote-typeface
+
+Screensiz.es
+
+Screensiz.es is a web-based tool that allows you to "quickly find the screen specifications of the most popular devices and monitors currently on the market."
+http://screensiz.es/
+
+WTCSS
+
+If you're a designer who relies on programmers to code your designs, please check this out (preferably in a Webkit-based browser such as Safari or Chrome). Enter a URL and map every element on the page to its corresponding CSS code. Look upon what you've wrought.
+http://css.benjaminbenben.com/
+
+MockSMTP.app
+
+I haven't tried it yet, but MockSMTP.app looks like a handy tool for testing email delivery on your local dev machine, without an internet connection.
+http://mocksmtpapp.com/
+
+Interchange
+
+Zurb adds a new component to Foundation 4. Interchange is similar to Scott Jehl's PictureFill, for progressive-loading of hi-res images.
+http://zurb.com/article/1211/say-goodbye-to-painful-image-loads-on-sma
+
+
+STATS & STUDIES (AND BROWSERS)
+
+KPCB Internet Trends 2013
+
+Mary Meeker unleashes her latest report at this year's D11 conference. Must-read data and insight on the growth of the Internet.
+http://www.slideshare.net/kleinerperkins/kpcb-internet-trends-2013
+
+Data Monday: What Are People Doing on Mobile?
+
+All that potential, and you're just playing games and checking Facebook.
+http://www.lukew.com/ff/entry.asp?1733
+
+Start Thinking About IE11 (Already)
+
+Setting aside browsers' user agent declarations and what they represent, this is the first article I've come across that examines the next version of IE on the horizon.
+http://www.neowin.net/news/ie11-to-appear-as-firefox-to-avoid-legacy-ie-css
+
+A First Peek at Opera 15 for Computers
+
+I typically advise never to read the comments, but there seems to be much disapproval here of favorite features omitted from the first version of Opera to rely on Chromium/Blink.
+http://my.opera.com/ODIN/blog/2013/05/28/a-first-peek-at-opera-15-for-computers
+
+
+The Clearbold Newsletter is an occasional digest email sent by Clearbold, LLC, Pelham, MA.
+
+http://clearboldne.ws
+newsletter@clearbold.com
+
+You may unsubscribe at any time.
+[unsubscribe]

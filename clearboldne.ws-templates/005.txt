@@ -1,0 +1,114 @@
+Hand-coded & delivered on an occasional basis.
+
+The Clearbold Newsletter
+February 19, 2013 - No. 005
+
+Trouble reading this?
+[webversion]
+
+The Talking About Content & Mobile Issue
+
+What do we mean by "Mobile"?
+
+"In this industry, we speak a specialist language... It's important we understand each other," begins Jim Ramsden's post about how we discuss context, device type and screen size.
+http://bit.ly/XcuBZf
+
+--
+
+Industry Terms and The Things We Say
+
+Corey Vilhauer issues "a call for education and clarification" when conveying methodology to our clients.
+http://bit.ly/XesClc
+
+--
+
+When a Breakpoint Becomes a Page
+
+Mark Boulton ponders responsive design breakpoints and wonders, "At what point did they start becoming 'the point at which I will create a new layout entirely', or 'the point at which I introduce a new canvas'?"
+http://bit.ly/XcuE7p
+
+--
+
+10 Commandments of Modern Web Design
+
+Jared Ponchot of Lullabot compiles what is quite possibly the best consolidated list of modern web design considerations I've seen.
+http://bit.ly/15ivfZK
+
+--
+
+The Value Behind Responsive Web Design
+
+Electric Pulp takes numbers from a recent e-commerce redesign, quietly deploys a responsive update, and watches conversions, transactions and revenue soar.
+http://bit.ly/12MJLoD
+
+--
+
+Building a Writing Tool That Embraces the Web
+
+The team behind upcoming collaboration tool Editorially is "figuring out just what writers need from a tool built on and for the Web...the two pillars of [which] seem to be the collaborative and Markdown-enabled writing experience."
+http://bit.ly/VlfaP1
+http://bit.ly/XacunY
+
+--
+
+Content Modelling and Design Diplomacy
+
+"Projects are halted and delayed - even fail - while that content is shoved into a design...because all of us, writers included, struggle to think of content independent of its context."
+http://bit.ly/YkHS1c
+
+--
+
+Released Today! Browser Stats for Q4 2012 and All of 2012
+
+11% of all browsing now comes from smartphones. Tablets were lumped in with PCs for the other 89%.
+http://bit.ly/XKtDAN
+
+--
+
+Opera Browser Switches to Webkit
+
+With Microsoft struggling to gain ground in the mobile space, the Webkit rendering engine at the heart of iOS & Android browsers--and powering Safari & Chrome--has come to define the mobile web browsing experience (and mobile web development). Alternative browser Opera announced that it is switching from its own engine to Webkit. What does it all mean? John Resig, creator of jQuery, has perhaps the best response:
+http://bit.ly/12ROWb8
+
+And keep in mind, as Peter-Paul Koch points out, with 24 Webkits, "there is no 'Webkit on mobile'":
+http://bit.ly/1501lbF
+
+--
+
+Recommended Reading
+
+We recommend bookmarking the Epic List of Content Strategy Resources, compiled by Jonathon Colman.
+http://bit.ly/12sRFri
+
+The Mobile Book
+
+Smashing Magazine's The Mobile Book is a wonderful tour through the emergence of mobile, device and interaction considerations, and provides a wealth of design and development techniques. Get a copy and read an article a day -
+
+http://amzn.to/YQUdii
+
+Content Everywhere
+
+The latest Content Strategy guide, from Sara Wachter-Boettcher, is packed with practical insight on content planning, structuring and creating content ready to go anywhere. Because content will go everywhere -
+
+http://amzn.to/11PhgWG
+
+--
+
+Be sure to share the Clearbold Newsletter with friends & colleagues:
+[forwardtoafriend]
+
+And add newsletter@clearbold.com to your contacts to ensure continued delivery.
+
+When the list hits 200 subscribers, we'll select one subscriber to receive a Google Nexus 7:
+http://bit.ly/XDRHW4
+
+'Til next time,
+
+Mark
+newsletter@clearbold.com
+
+The Clearbold Newsletter is an occasional digest email sent by Clearbold, LLC, Pelham, MA.
+http://clearboldne.ws - newsletter@clearbold.com
+
+You may unsubscribe at any time:
+[unsubscribe]

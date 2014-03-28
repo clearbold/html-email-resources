@@ -1,0 +1,89 @@
+The Clearbold Newsletter
+August 27, 2012 - No. 003
+
+Hand-coded & delivered on an occasional basis.
+
+Trouble reading this?
+[webversion]
+
+===> The Content & Marketing Issue
+
+Have you noticed the shift that's underway? I have. My web browser's history now almost entirely exists of development sites for clients, business apps and technical resources. Websites have ceased to be a destination for me. I glean news from Twitter, send it to Pocket to read later, catch up on blogs using an RSS reader. The latter two are iPhone apps, and I'm using Tweetbot to access my Twitter stream on my iPhone, iPad and Mac.
+
+As we've begun selling and producing websites with flexible designs that can adapt to different contexts and interfaces, our content is still boxed-in. It's our next big challenge.
+
+The Content Marketing Institute: Divorcing Content from Form: A Major Perspective Shift for Marketers
+http://www.contentmarketinginstitute.com/2012/08/divorcing-content-from-form-perspective-shift-for-marketers/
+
+--
+
+Forbes: Online Display Ads: The Brand Awareness Black Hole
+"The bottom line is that there is only one true branding mechanism online and that's content marketing."
+http://www.forbes.com/sites/ciocentral/2012/05/07/online-display-ads-the-brand-awareness-black-hole/
+
+--
+
+UIE: The User We've Left Out - The Content Governor
+http://www.uie.com/brainsparks/2012/08/22/uietips-content-governor/
+
+--
+
+Effective Web Managers Tackle Digital Governance
+http://lucidplot.com/2012/08/06/digital-governance/
+
+--
+
+From 2008: The Cure for Content-Delay Syndrome
+http://www.alistapart.com/articles/thecureforcontent-delaysyndrome/
+
+--
+
+Brad Frost in .NET magazine:
+"Ensuring that data is portable is absolutely essential. It's essential to build APIs and content management systems that are built for adaptation and flexibility. Focusing on content infrastructure is now more important than any one individual channel. Unfortunately, current web content management systems act as more web publishing tools, so a lot of work needs to be done to create more platform-agnostic CMSes."
+
+--
+
+Stop Publishing Web Pages
+"Most users on the web spend most of their time in apps."
+http://dashes.com/anil/2012/08/stop-publishing-web-pages.html
+
+--
+
+Selling CMS vs. Doing CMS
+"Your website is never actually done and it's a project that will need many times the people, money and resources than they are currently committing."
+http://www.cmsmyth.com/2012/08/selling-cms-vs-doing-cms/
+
+--
+
+I'm hoping to attend Karen McGrane's Content Strategy Workshop at UI 17 this fall. The entire event looks incredibly valuable for web designers, producers and content wranglers.
+http://www.uie.com/events/uiconf/2012/
+
+--
+
+===> The Latest Mobile Stat
+
+Mobile Now Accounts for Over 11% of Corporate Website Visits
+http://fsm.bdconf.com/twitter-archive/mobile-now-accounts-for-over-11-of-corporate-website-visits
+
+--
+
+===> Ad
+
+I've begun switching my servers over to A Small Orange and am thrilled with their offerings & customer support. When you need a quick server for a small launch, check out their Business Hosting product, which includes SSL, an IP address and is PCI Compliant for a very reasonable rate.
+http://asmallorange.com/hosting/business/?a_aid=clearbold
+
+--
+
+Share with your friends & colleagues:
+[forwardtoafriend]
+
+'Til next time,
+
+Mark
+newsletter@clearbold.com
+
+The Clearbold Newsletter is an occasional digest email sent by Clearbold, LLC, Pelham, MA.
+http://clearboldne.ws - newsletter@clearbold.com
+
+You may unsubscribe at any time:
+[unsubscribe]

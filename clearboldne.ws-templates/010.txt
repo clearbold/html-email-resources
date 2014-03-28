@@ -1,0 +1,186 @@
+The Clearbold Newsletter 010 - May 23, 2013
+Issue No. 010: App.net, Google, Digital Trends, Learning & more.
+
+View on the Web:
+[webversion]
+
+Tweet:
+[tweet]
+
+Forward to a Friend:
+[forwardtoafriend]
+
+Tell your friends about the Clearbold Newsletter. Visit http://clearboldne.ws.
+
+
+SOCIAL MEDIA AGENTS
+
+Tired of trawling your timelines for those valuable links to industry insight?
+
+Goldfinch aims to "tame your Twitter, Facebook and App.net streams." It doesn't require you to subscribe to sites or configure preferences. Simply log in to your social media accounts and it provides you a trending topics list you can refresh throughout the day, based on activity in your own network.
+
+Goldfinch is a free iOS app. Perhaps most interesting is that there is no corresponding service to sign up for or maintain. There's no website to log into. Goldfinch simply culls popular links from your timeline each day, and only preserves historical data as far back as the "Best of Yesterday".
+https://goldfinchapp.com/
+
+App.News is both simpler and broader than Goldfinch. Built solely for the App.net network, it simply filters article links from ADN's global stream, or your own.
+https://directory.app.net/app/215/appnews/
+
+
+APP.NET HITS 100,000
+
+App.net launched its platform last summer when an army of users willing to pay for an ad-free, user-focused and developer-friendly social network committed funds for its development. On May 17th, the new kid on the block hit 100,000 users.
+
+Since launching, App.net has made a free tier available (with limitations and based on invites from current users), continued to build out its platform and API, including file hosting, and supports a thriving community of third-party apps.
+
+To get a sense of what App.net currently offers, the App.net Directory is a good place to start. App.net Passport is an iOS app that helps identify users to follow and available apps. You can also manage your App.net profile from Passport. Apps like Orbit support easy sharing of files or screenshots from your OS X desktop.
+https://join.app.net/
+https://directory.app.net
+https://itunes.apple.com/us/app/app.net-passport/id534414475?ls=1&mt=8
+https://directory.app.net/app/197/orbit/
+
+
+BRAVE NEW WORLD
+
+When Google Owns the Future
+
+Mat Honan follows Larry Page's goal of an unregulated innovation island to its eventuality. Satire or dystopian vision?
+http://www.wired.com/gadgetlab/2013/05/on-google-island/
+
+When Google Owns the Internet
+
+In The Great Google Goat Rodeo, Mark Wunsch takes a look at how Google has transformed the Internet, and how hard it is to take it back.
+http://blog.markwunsch.com/post/50588412660/on-google
+
+When Google Owns Your Data
+
+In Issue 008 we looked at what happens when Google kills an app (Reader) that you depend on. What if Google locks down your account and denies you access to all the apps you use, and all the data you store in them?
+http://www.lastwordonnothing.com/2013/04/22/dumped-by-google/
+
+Our Regressive Web
+
+" Google Alerts, Delicious and RSS were designed in blogging's early days as innovations to help readers reduce this noise--to help improve their reading experience. "
+
+Back when the Reader shutdown was announced, Ryan Holiday took a look at what we're losing in the name of progress.
+https://medium.com/future-tech-future-market/7b1a7ddb6ffe
+
+
+MEDIUM & SVBTLE
+
+That last link came from Medium. A site I find similar in quality of content and intent is Svbtle. Both sites share a commitment to support quality writing -- and reading -- on the Web.
+http://medium.com
+http://svbtle.com
+
+I've especially appreciated Paul Jarvis's writings for Medium on how we work with and on the Web.
+https://medium.com/@pjrvs/latest
+
+
+DIGITAL
+
+The Digital Divide
+
+In Issue 007 -- How to Sell the Value of Mobile to Clients -- I wrote about the social value of supporting mobile.
+
+" Ignoring mobile not only means ignoring a significant segment of society, but risks limiting the ability of many to find work, to find information or to enjoy equal access to what are becoming essential rights. "
+
+An article on the Huffington Post includes real stories of people struggling to keep up without a reliable computer and broadband internet connection.
+http://www.huffingtonpost.com/2012/03/01/internet-access-digital-age_n_1285423.html
+
+Behind the Startup: Tumblr
+
+Marco Arment writes about his history working on Tumblr with David Karp in the wake of the Yahoo! acquisition.
+http://www.marco.org/2013/05/20/one-person-product
+
+How, When and Where Will the First Truly Great Digital Design Studio Emerge?
+
+A look at the history of design studios vs big marketing and advertising agencies wonders where the digital leaders will emerge.
+http://www.mobileinc.co.uk/2013/05/how-when-and-where-will-the-first-truly-great-digital-design-studio-emerge/
+
+Elegy for the Text Box
+
+" This is one of those tiny things that are actually a huge deal. For years the web worked in a very sensible way. The role of users was to put things into the box; the role of the web company was to make it look pretty. But now that dynamic has changed, radically. "
+
+Paul Ford ponders writing and editing directly in the immediate context of a finished design, and what that means for editorial process.
+http://www.printmag.com/featured/paul-fords-interaction-elegy-for-the-text-box/
+
+
+LEARNING & CAREER
+
+Give Your Team a UX Jump-Start
+
+Whitney Hess offers a 2-day, bootcamp-style UX Jump-Start. Not only is this a good way for client & consultant to do a trial run before a big project commitment, Whitney does an excellent job at pitching her skills and strengths.
+http://whitneyhess.com/blog/2013/05/21/give-your-team-a-ux-jump-start/
+
+Coursera: Startup Engineering
+
+Looking to expand on basic programming skills? This online course from Stanford will help you "learn the engineering skills needed to build a technology startup from the ground up."
+https://www.coursera.org/course/startup
+
+The New Design
+
+Naz Hamid looks at the ongoing lack of exposure to designing for screens in schools, and offers prescriptions for students, schools and those of us in the industry.
+https://medium.com/design-ux/fa908cd10ccc
+
+113 Design Guidelines for Homepage Usability
+
+Think an October, 2001, list from Nielsen Norman Group is outdated? Think again. These are basic principles, and some things never change.
+http://www.nngroup.com/articles/113-design-guidelines-homepage-usability/
+
+How Much Has the Web Really Changed?
+
+From Smashing Magazine, a look at the new defaults in web design, including small screens, content first and APIs.
+http://www.smashingmagazine.com/2013/05/06/new-defaults-web-design/
+
+Build Your Own Tumbler Site with Craft, ExpressionEngine & Statamic
+
+Tumblr does a great job at supporting structured content, which every web worker should understand. I'm working on producing an e-book that walks through creating a Tumblr-style site with these three popular CMS platforms. Sign up for updates: Build Your Own Tumblr Site with Craft, ExpressionEngine & Statamic.
+http://clearbold.com/build-your-own-tumblr-site
+
+To learn more about working with structured content, I recommend Sara Wachter-Boettcher's Content Everywhere and Karen McGrane's Content Strategy for Mobile.
+http://www.amazon.com/gp/product/193382087X/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=193382087X&linkCode=as2&tag=clrbld-20
+http://www.abookapart.com/products/content-strategy-for-mobile
+
+
+WORKFLOW
+
+Our Web Development Workflow is Completely Broken
+
+Kenneth Auchenberg looks at how we debug and write front-end code: HTML, CSS, JavaScript.
+
+" The funny thing here is that this concept isn't new. You've had editor integration via Microsoft Script Debugger or Visual Studio since the old Internet Explorer days to debug JSCRIPT, just like any other Microsoft language, but people seem to have forgotten. "
+
+The funny thing is, I used to do this in 2004 when I worked on an IE-only web application and would set breakpoints in Visual Studio while stepping through the app's UI. And I have forgotten about those tools.
+http://blog.kenneth.io/blog/2013/05/21/our-web-development-workflow-is-completely-broken/
+
+Adobe Edge Reflow
+
+" I'd just come from being the senior designer at a 6 person shop. If I wanted to share an idea, I'd simply walk over to them or shoot them with a nerf gun. Inside a company of 11,000, I had no way of facilitating the creation of something like this. "
+
+Aaron Shekey writes about his goals and design process for Adobe Edge Reflow, "a design tool for laying things out on a fluid canvas."
+http://www.aaronshekey.com/reflow/
+
+
+STATS & STUDIES
+
+Biz Publishing Sector Cautious About Mobile
+
+A 2012 study shows that B2B publishers were still struggling with refocusing online efforts toward mobile.
+http://printinthemix.com/Fastfacts/Show/622
+
+Mobile vs. Desktop 2 (Email)
+
+This Inbox Marketer infographic highlights continually increasing email open rates on mobile. The tipping point is upon us.
+http://pinterest.com/pin/34973334579201964/
+
+IE7 All But Dead; IE8 Continues Decline
+
+It's safe to finally lay IE7 to rest while watching IE8's install base continue to decline.
+http://www.sitepoint.com/browser-trends-may-2013/
+
+
+The Clearbold Newsletter is an occasional digest email sent by Clearbold, LLC, Pelham, MA.
+
+http://clearboldne.ws
+newsletter@clearbold.com
+
+You may unsubscribe at any time.
+[unsubscribe]

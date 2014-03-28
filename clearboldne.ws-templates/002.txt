@@ -1,0 +1,146 @@
+The Clearbold Newsletter
+August 13, 2012 - No. 002
+
+Hand-coded & delivered on an occasional basis.
+
+Trouble reading this?
+[webversion]
+
+===> The Prototyping Issue
+
+Prototyping is scary. It upends the Waterfall process we've long relied on for project management, where Discovery begets Wireframes which beget Design comps which are handed off to be sliced and coded in Development. Waterfall allows us to work in discrete phases. Doing otherwise means we not only have to more tightly coordinate our schedules, but also the ways in which we work.
+
+Prototyping is fast becoming a necessity, though. Static wireframes or comps can't show a client how a page will adapt to a tablet, handheld device, desktop monitor or, most importantly, points in-between. It's those unknown dimensions lying in wait in the future that we need to cover, so that our launch isn't DOA.
+
+Prototyping also allows us to fail early and fail cheap. An interface element might look great in a static, polished comp, and then fall flat once it's built and used. Tackling those ideas early in rough prototypes provides room for discussion before commitments--time & budget--are made.
+
+Why Prototyping Matters
+http://www.bigspaceship.com/2012/07/try-and-try-again-why-prototyping-matters/
+
+--
+
+Our New Responsive Design Deliverable: The Style Prototype
+http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype
+
+--
+
+A Better Project Model than the "Waterfall"
+http://blogs.hbr.org/cs/2012/07/a_better_project_model_than_the_waterfall.html
+
+--
+
+Zurb Foundation
+A Responsive HTML/CSS framework that we've leveraged to build dynamic wireframes and prototype functionality.
+http://foundation.zurb.com/
+
+--
+
+Twitter Bootstrap
+Another Responsive HTML/CSS framework.
+http://twitter.github.com/bootstrap/
+
+--
+
+Paper Prototyping and 5 Analog Tools for Web and Mobile Designers
+http://www.1stwebdesigner.com/design/paper-prototyping-analog-tools-web-mobile-designers/
+
+--
+
+===> App.net Meets Funding Goal
+
+If you're not paying for something, you're the product; Not the customer.
+
+Twitter needs a profitable business model, and so they've begun working on services that will provide value to their customers: Advertisers. Changes to Twitter's stream to include Promoted Tweets and enhanced media not only impact its users, but also third-party applications that many of us rely on for an optimized Twitter experience. There is growing concern that Twitter will move in a direction that will effectively shut down third-party apps.
+
+Thousands of backers helped App.net reach its $500,000 goal to fund development of a social networking platform that is user-driven, not advertiser-driven. An alpha of the platform has already been released and backers have begun trying it out.
+
+About App.net
+http://join.app.net
+
+--
+
+The App.net Alpha
+http://alpha.app.net
+
+--
+
+Blindly speculating on Twitter's future
+http://www.marco.org/2012/08/02/twitter-speculation
+
+--
+
+The Future of Twitter's Platform is All in the Cards
+http://allthingsd.com/20120801/the-future-of-twitters-platform-is-all-in-the-cards/
+
+--
+
+===> An Event Apart DC
+
+What's almost as good as being at An Event Apart? Mobile First author Luke Wroblewski's bullet point summaries of the speaker's talks. Check out these brief write-ups for quick bites of industry insight.
+
+An Event Apart: Mobile Content Strategy August 7, 2012
+http://www.lukew.com/ff/entry.asp?1602
+
+--
+
+An Event Apart: The Crafts in our Systems August 7, 2012
+http://www.lukew.com/ff/entry.asp?1603
+
+--
+
+An Event Apart: Buttons are a Hack August 7, 2012
+http://www.lukew.com/ff/entry.asp?1604
+
+--
+
+An Event Apart: What Clients Don’t Know August 7, 2012
+http://www.lukew.com/ff/entry.asp?1605
+
+--
+
+An Event Apart: Content First August 6, 2012
+http://www.lukew.com/ff/entry.asp?1598
+
+--
+
+An Event Apart: Responsive Design Workflow August 6, 2012
+http://www.lukew.com/ff/entry.asp?1599
+
+--
+
+An Event Apart: Upping Your Type Game August 6, 2012
+http://www.lukew.com/ff/entry.asp?1600
+
+--
+
+An Event Apart: Beyond Media Queries August 6, 2012
+http://www.lukew.com/ff/entry.asp?1601
+
+--
+
+Brad Frost also posted his own notes.
+Beyond Media Queries: Anatomy of an Adaptive Web Design
+http://bradfrostweb.com/blog/mobile/beyond-media-queries-anatomy-of-an-adaptive-web-design/
+
+--
+
+===> Ad
+
+I've begun switching my servers over to A Small Orange and am thrilled with their offerings & customer support. When you need a quick server for a small launch, check out their Business Hosting product, which includes SSL, an IP address and is PCI Compliant for a very reasonable rate.
+http://asmallorange.com/hosting/business/?a_aid=clearbold
+
+--
+
+Share with your friends & colleagues:
+[forwardtoafriend]
+
+'Til next time,
+
+Mark
+newsletter@clearbold.com
+
+The Clearbold Newsletter is an occasional digest email sent by Clearbold, LLC, Pelham, MA.
+http://clearboldne.ws - newsletter@clearbold.com
+
+You may unsubscribe at any time:
+[unsubscribe]

@@ -1,0 +1,103 @@
+The Clearbold Newsletter
+February 5, 2013 - No. 004
+
+Hand-coded & delivered on an occasional basis.
+
+Trouble reading this?
+[webversion]
+
+===> The 2013 Issue
+
+2012 in Numbers
+
+Did you know that Mail for iOS was the most popular email client in 2012?
+
+Did you know that 59% of global mobile data traffic was video?
+
+That 31% of the U.S. Internet population used a tablet or e-reader?
+
+Or that the average web page became 35% larger and 4% slower to load in 2012? (While users' patience and attention continue to diminish.)
+
+Pingdom has compiled all of these 2012 stats - and more - in one place.
+http://royal.pingdom.com/2013/01/16/internet-2012-in-numbers/
+
+Also, from late last year, check out Mary Meeker's latest State of the Web presentation.
+http://www.businessinsider.com/mary-meeker-2012-internet-trends-year-end-update-2012-12#-1
+
+--
+
+2013: The Year Responsive Design Starts to Get Weird
+
+Your web designs are going to end up on screens you can't even imagine.
+http://www.niemanlab.org/2012/12/the-year-responsive-design-starts-to-get-weird/
+
+--
+
+===> Performance Matters
+
+Unable to make safe assumptions about mobile users' bandwidth and download speeds, and with users' increasing expectations for download times that fit within decreasing attention spans, performance is a key consideration in successful web designs. Tim Kadlec advocates setting a Performance Budget when designing.
+http://timkadlec.com/2013/01/setting-a-performance-budget/
+
+--
+
+===> Post-PSD or Post-Comp era?
+
+A healthy discussion ensued last month about the pros & cons of relying on Photoshop in a time of responsive, adaptive, fluid & future-friendly web design.
+
+Brad Frost suggests Post-PSD
+http://bradfrostweb.com/blog/post/the-post-psd-era/
+
+Daniel Mall counters with Post-Comp
+http://danielmall.com/articles/the-post-psd-era/
+
+--
+
+===> An Academic Discussion of Carousels
+
+Erik Runyon looks at analytics data for Notre Dame's sites and uncovers greatly diminishing returns on slides beyond the 1st position.
+http://weedygarden.net/2013/01/carousel-stats/
+
+Brad Frost follows up with an opinionated post - Do carousels actually annoy users and take attention away from the featured content area? Is any value that's gained worth the impact on performance and added complexity?
+http://bradfrostweb.com/blog/post/carousels/
+
+--
+
+Top 20 Web Design & Development Trends for 2013 - .net Magazine
+http://www.netmagazine.com/features/20-top-web-design-and-development-trends-2013
+
+--
+
+Modern.ie - Microsoft Talks the Talk on Standards & Cross-Browser Testing
+http://www.modern.ie/
+
+--
+
+===> Recommended Reading
+
+The Mobile Book
+
+Smashing Magazine's The Mobile Book is a wonderful tour through the emergence of mobile, device and interaction considerations, and provides a wealth of design and development techniques. Get a copy and read an article a day -
+
+http://amzn.to/YQUdii
+
+Content Everywhere
+
+The latest Content Strategy guide, from Sara Wachter-Boettcher, is packed with practical insight on content planning, structuring and creating content ready to go anywhere. Because content will go everywhere -
+
+http://amzn.to/11PhgWG
+
+--
+
+Share with your friends & colleagues:
+[forwardtoafriend]
+
+'Til next time,
+
+Mark
+newsletter@clearbold.com
+
+The Clearbold Newsletter is an occasional digest email sent by Clearbold, LLC, Pelham, MA.
+http://clearboldne.ws - newsletter@clearbold.com
+
+You may unsubscribe at any time:
+[unsubscribe]

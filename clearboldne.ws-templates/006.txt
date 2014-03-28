@@ -1,0 +1,220 @@
+Hand-coded & delivered on an occasional basis.
+
+The Clearbold Newsletter
+February 26, 2013 - No. 006
+
+Trouble reading this?
+[webversion]
+
+Share on Twitter - [tweet]
+Like on Facebook - [fblike]
+
+The Devices Issue
+
+With the normalization of the smartphone behind us, and widespread Web-enabled TVs, cars and refrigerators right around the corner, let's catch up on keeping up with our devices.
+http://bit.ly/12Zm6Wp
+http://bit.ly/ZbidsP
+
+Google Announces Chromebook Pixel
+
+I'm in agreement: At $1,300 and with Chrome OS's limitations, the Chromebook Pixel is an impractical buy. What is noteworthy is that this laptop has the "highest-resolution screen on the market" and a touch-enabled screen. Along with the Microsoft Surface, the distinction between touch-enabled mobile devices and traditional laptops has been obliterated. Every screen now has the potential to be a touch-enabled screen, and that impacts how we design for the Web.
+http://bit.ly/126komR
+
+The Wirecutter: The Chromebook Pixel is not for you
+http://bit.ly/YwtaSL
+
+What intrigues me more in the Chromebook lineup is the $250 Samsung model. I could see myself buying this for members of my family. It does web browsing, including Facebook, video chat, online games, Google Docs and web-based email. With Chrome's rapid ascent as a web browser, Chrome OS is a more familiar environment to many than Windows 8, and may have more long-term potential.
+http://bit.ly/WmQy5H
+http://bit.ly/XKtDAN
+http://bit.ly/Ywt916
+
+As mobile devices become more utility than novelty, I find Google's Nexus 7, running the latest Android OS, in my hands more than my iPhone 4 or iPad. It accomplishes much of anything I commonly do on either device, though it's not as sturdy or polished. I've had an iPhone since its 2007 debut. We have 3 Macs in our household, 2 iPhones in use and an iPad. My 11" MacBook Air is the best computer I've ever owned. There's lots of room for evolution in this space, though.
+
+Google's Chromebook Lineup
+http://bit.ly/15eGsth
+
+Google Glass Takes Step Forward
+
+Google also made recent news with the launch of a new microsite for its Glass project, featuring a video consisting largely of...People recording video? So far, I'm largely in agreement with John Gruber on Daring Fireball: It's something "I personally have no need for." I'm also reminded of Patrick Rhone's post on putting down the camera.
+http://bit.ly/YSq1im
+http://bit.ly/WeE1Xb
+
+How to get one? Google has an application process to be able to pre-order a device for $1500 (plus tax!), if you pass the audition.
+http://bit.ly/XBwVXT
+
+John Pavlus asks "Why is Google restricting its Glass rollout to 'Glassholes'?"
+http://bit.ly/YvE3bI
+
+Slashgear reveals the real UI.
+http://bit.ly/V1UNaC
+
+Josh Topolsky says it's "not if, but when."
+http://bit.ly/Zxwsbp
+
+Google Glass
+http://bit.ly/XaaV8v
+
+--
+
+24 iPhone Models, 48 iPad, 34 iPod
+
+In yet another article hypothesizing Apple's next device's dimensions, Marco Arment documents a surprising number of device configurations for a company renowned for its focused product line.
+http://bit.ly/ZnaxHE
+
+Google's flagship Nexus lineup currently consists of 2 Nexus 4 models, 4 Nexus 7, and 2 Nexus 10. That is, of course, in addition to the plethora of devices most Android users own: Those not branded Google Nexus and offered by carriers.
+http://bit.ly/Y3jfGo
+
+Microsoft's Surface offers two RT models and two Pro models.
+http://bit.ly/12ZlVdC
+
+--
+
+Building a Mobile Device Testing Lab
+
+Test on Real Mobile Devices without Breaking the Bank
+http://bit.ly/YiGXMG
+
+Mobile Lab Testing Devices
+http://bit.ly/VB9x1K
+
+Building the Happy Cog Test Lab
+http://bit.ly/YC60Lz
+
+Strategies for Choosing Test Devices
+http://bit.ly/VrrMnR
+
+Our lab currently includes: An HTC Desire running Android 2.3.3, A Google Nexus 7 running Android 4.2.2 (which I've been using more often), an original iPad maxed out at iOS 5, an iPad 3, an 11" MacBook Air, a 24" iMac, a Retina Display MacBook Pro, a Dell running Windows 7.
+
+When testing with your devices, MQtest.io is "a simple tool to help identify which media queries your device responds to."
+http://bit.ly/ZnaED7
+
+--
+
+Counting Tablets as PCs, Apple is #1
+
+According to market researchers at Canalys, with one in six PCs shipped in Q4 2012 being an iPad, Apple is the top PC maker.
+
+Chart of the day: Apple as the world's No. 1 PC maker
+http://bit.ly/XgHwdI
+
+See also: World's Biggest Computer Makers when PCs, Tablets AND Smartphones Are Included
+http://bit.ly/YC62Dg
+
+And if you have any doubt the iPad can be a viable alternative to a PC, read on:
+
+Why the iPad Is My New Laptop
+http://bit.ly/WSluP3
+
+Apple's Post-PC World
+http://www.macworld.co.uk/blogs/?blogid=8&entryid=3348320
+
+--
+
+Device Boundaries Blurring
+
+If you've assumed that a smartphone will always be palm-sized and navigable with a thumb, or that touch is good for tablet-sized devices down and hover states are good for laptop-sized devices and up, you'll start to see those lines blurring as users hook keyboards up to their tablets and the Surface Pro works as a touchscreen laptop.
+
+Luke Wroblewski: "A complete continuum of screen sizes is actually a blessing for Web designers and developers. It forces us toward adaptive solutions that respond to diverse capabilities instead of being able to draw arbitrary cut-off points for separate mobile, tablet, and desktop sites."
+http://bit.ly/YtZAiR
+
+Also read Cloud Four's Responsive Design for Apps (Part 1)
+http://bit.ly/W0bRPE
+
+--
+
+How Do Users Really Hold Mobile Devices?
+
+Steven Hoober and others made 1,333 observations of people using mobile devices. Here are their findings in UXmatters:
+
+UX Matters - How Do Users Really Hold Mobile Devices?
+http://bit.ly/12DC60t
+
+--
+
+Android & iOS... What About Windows? Blackberry? Firefox?
+
+Windows Phone's market share continues to be anemic. Is there any hope at this point?
+
+Final Q4 Numbers and Full Year 2012 Stats for Smartphone Market Shares
+http://bit.ly/Y3jAZv
+
+With the Surface RT targeting tablets like the iPad, and the Surface Pro offering full access to Windows 8 in tablet form, Microsoft is hedging its bets. Without sales numbers, it's hard to tell whether the Surface will take off.
+
+We'll hear about Blackberry 10, Firefox OS, Ubuntu and others in 2013. They have a steep climb ahead, but may be contenders if we look at the global, non-US market.
+http://bit.ly/WSlzSR
+http://bit.ly/134kMgI
+http://bit.ly/VrrWeI
+http://bit.ly/Xoe98j
+
+--
+
+Testing Websites in Game Console Browsers
+
+Did you allocate time to fire up your Xbox or Playstation to test your latest web design? According to Anna Debenham, "nearly one in four American teens uses a game console to get online."
+
+A List Apart - Testing Websites in Game Console Browsers
+http://bit.ly/12DCfkD
+
+--
+
+Connected Devices - Who Keeps the Servers Running?
+
+Is your thermostat subject to server downtime? "This is an issue with every new connected device that comes to market - who will keep the servers running?"
+http://bit.ly/Xaggwz
+
+--
+
+Other Device Considerations
+
+17% of cell phone owners do most of their online browsing on their phone.
+
+Cell Internet Use 2012
+http://bit.ly/VIJNxR
+
+People "imagine that their devices are different-sized windows on the same content, not entirely different containers."
+
+Karen McGrane: Windows on the Web
+http://bit.ly/YsNYgf
+
+--
+
+UPDATE: More on Apples
+
+Electric Pulp issues a follow-up on their "You like apples?" blog post (that we linked to in Issue 005).
+http://bit.ly/12MJLoD
+
+More on Apples
+http://bit.ly/13aXPgz
+
+--
+
+Recommended Reading
+
+The Mobile Book - Smashing Magazine's The Mobile Book is THE book on Mobile, offering a wonderful tour through the emergence of mobile, device and interaction considerations, and provides a wealth of design and development techniques. Get a copy and read an article a day -
+http://amzn.to/YQUdii
+
+Content Everywhere - The latest Content Strategy guide, from Sara Wachter-Boettcher, is packed with practical insight on content planning, structuring, and creating content ready to go anywhere. Because content will go everywhere -
+http://amzn.to/11PhgWG
+
+--
+
+Be sure to share the Clearbold Newsletter with friends & colleagues:
+[forwardtoafriend]
+
+And add newsletter@clearbold.com to your contacts to ensure continued delivery.
+
+When the list hits 200 subscribers, we'll select one subscriber to receive a Google Nexus 7:
+http://bit.ly/XDRHW4
+
+'Til next time,
+
+Mark
+newsletter@clearbold.com
+
+Transmitted by http://www.dispatchwire.com
+
+The Clearbold Newsletter is an occasional digest email sent by Clearbold, LLC, Pelham, MA.
+http://clearboldne.ws - newsletter@clearbold.com
+
+You may unsubscribe at any time:
+[unsubscribe]
