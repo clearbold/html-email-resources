@@ -1,7 +1,7 @@
 HTML Email Resources
 ====================
 
-HTML Email Resources, compiled by http://clearbold.com
+HTML Email Resources, compiled by http://clearbold.com  
 Last updated Feb 17, 2015
 
 Lee Munroe's [Things I've Learned About Email, For Web Designers and Developers](http://www.leemunroe.com/sending-email-designers-developers/) is a comprehensive list.
