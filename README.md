@@ -1,8 +1,9 @@
 HTML Email Resources
 ====================
 
-HTML Email Resources, compiled by http://clearbold.com  
-Last updated Feb 17, 2015
+HTML Email Resources, compiled by http://clearbold.com
+
+Last updated Feb 17, 2015 unless otherwise noted.
 
 Lee Munroe's [Things I've Learned About Email, For Web Designers and Developers](http://www.leemunroe.com/sending-email-designers-developers/) is a comprehensive list.
 
@@ -16,12 +17,19 @@ Lee Munroe's [Things I've Learned About Email, For Web Designers and Developers]
 
 ### Boilerplate
 
+I've referenced Ted's [Cerberus templates](https://tedgoas.github.io/Cerberus/) for hybrid techniques. (5.12.2017)
+
 I haven't actually used any of these. (^MR)
 
 * [Emailology](http://www.emailology.org/#1)
 * [HTML Email Boilerplate](http://htmlemailboilerplate.com/)
 * [Ink: A Responsive Email Framework from Zurb](http://zurb.com/ink/)
 	* If you've relied on Zurb Foundation for your web projects, they've now tackled email.
+
+### Client Notes
+
+* Litmus added Comcast this year. I've found that hybrid mobile-first media queries require widths be set in min-width media queries to lock in full size layouts. (5.12.2017)
+* I've also found inconsistent rendering of width + padding values in media queries compared to other clients. (5.12.2017)
 
 ### CSS (or lack thereof)
 
@@ -65,7 +73,7 @@ I haven't actually used any of these. (^MR)
 * [Campaign Monitor: Inliner](http://inliner.cm/)
 	* We've relied on Campaign Monitor's CSS inlining for years, even in emails we hand off to blast via other services. ^MR
 * [Premailer](http://premailer.dialect.ca/)
-  
+
 ### Responsive Email Design
 
 * [Multi-Column Responsive Layouts (Campaign Monitor)](http://www.campaignmonitor.com/guides/mobile/responsive/)
