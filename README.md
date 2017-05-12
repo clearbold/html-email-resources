@@ -19,7 +19,7 @@ Lee Munroe's [Things I've Learned About Email, For Web Designers and Developers]
 
 I've referenced Ted's [Cerberus templates](https://tedgoas.github.io/Cerberus/) for hybrid techniques. (5.12.2017)
 
-I haven't actually used any of these. (^MR)
+I haven't actually used any of these, but here are some others: (^MR)
 
 * [Emailology](http://www.emailology.org/#1)
 * [HTML Email Boilerplate](http://htmlemailboilerplate.com/)
